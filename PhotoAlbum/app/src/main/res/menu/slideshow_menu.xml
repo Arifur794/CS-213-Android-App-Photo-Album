@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SlideshowActivity">
+    <item
+        android:id="@+id/add_tag"
+        android:orderInCategory="100"
+        android:title="@string/add_tag"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_tag"
+        android:orderInCategory="100"
+        android:title="@string/delete_tag"
+        app:showAsAction="never" />
+
+</menu>

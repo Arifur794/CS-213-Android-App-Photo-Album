@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo Album</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="delete_tag">Delete Tag</string>
+    <string name="tagValue">Enter tag.</string>
+    <string name ="select_tagtype">Select tag type.</string>
+    <string-array name="tag_types">
+        <item>location</item>
+        <item>person</item>
+    </string-array>
+</resources>
