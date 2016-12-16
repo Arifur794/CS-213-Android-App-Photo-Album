@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bb3e71d-6177-4915-aee3-8f7a55db2897" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PhotoAlbum/.idea/.name.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhotoAlbum/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/PhotoAlbum/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhotoAlbum/.idea/gradle.xml" afterPath="$PROJECT_DIR$/PhotoAlbum/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhotoAlbum/.idea/misc.xml" afterPath="$PROJECT_DIR$/PhotoAlbum/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhotoAlbum/.idea/modules.xml" afterPath="$PROJECT_DIR$/PhotoAlbum/.idea/modules.xml" />
-    </list>
-    <ignored path="AndroidPhotoAlbumGroup22.iws" />
+    <list default="true" id="5bb3e71d-6177-4915-aee3-8f7a55db2897" name="Default" comment="" />
+    <ignored path="AndroidPhotoAlbumGroup105.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +18,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="AndroidPhotoAlbumGroup22" />
+    <favorites_list name="AndroidPhotoAlbumGroup105 />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
